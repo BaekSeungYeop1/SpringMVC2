@@ -1,4 +1,4 @@
-package hello.login.domain.login;
+package hello.login;
 
 import hello.login.domain.item.Item;
 import hello.login.domain.item.ItemRepository;
